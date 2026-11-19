@@ -1,0 +1,398 @@
+{
+    "version": 1,
+    "created_at": "2026-11-19T09:05:48.146087+00:00",
+    "monitor": {
+        "left": 0,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "work_left": 0,
+        "work_top": 0,
+        "work_right": 1920,
+        "work_bottom": 1032
+    },
+    "grid": {
+        "origin_x": 22,
+        "origin_y": 2,
+        "step_x": 76,
+        "step_y": 84,
+        "columns": 25,
+        "rows": 13
+    },
+    "items": [
+        {
+            "name": "AnyDesk",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\AnyDesk.lnk"
+            },
+            "position": {
+                "column": 0,
+                "row": 3
+            }
+        },
+        {
+            "name": "Keep Talking and Nobody Explodes",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Keep Talking and Nobody Explodes.url"
+            },
+            "position": {
+                "column": 0,
+                "row": 4
+            }
+        },
+        {
+            "name": "VLC media player",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\VLC media player.lnk"
+            },
+            "position": {
+                "column": 0,
+                "row": 6
+            }
+        },
+        {
+            "name": "OpenVPN GUI",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\OpenVPN GUI.lnk"
+            },
+            "position": {
+                "column": 0,
+                "row": 7
+            }
+        },
+        {
+            "name": "iMazing",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\iMazing.lnk"
+            },
+            "position": {
+                "column": 0,
+                "row": 9
+            }
+        },
+        {
+            "name": "Проверка Монитора",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Проверка Монитора"
+            },
+            "position": {
+                "column": 0,
+                "row": 11
+            }
+        },
+        {
+            "name": "MeshLab",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\MeshLab.lnk"
+            },
+            "position": {
+                "column": 1,
+                "row": 6
+            }
+        },
+        {
+            "name": "Деловая Почта",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\Деловая Почта.lnk"
+            },
+            "position": {
+                "column": 1,
+                "row": 7
+            }
+        },
+        {
+            "name": "OBS Studio",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\OBS Studio.lnk"
+            },
+            "position": {
+                "column": 1,
+                "row": 9
+            }
+        },
+        {
+            "name": "PEAK",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\PEAK.url"
+            },
+            "position": {
+                "column": 2,
+                "row": 4
+            }
+        },
+        {
+            "name": "ViPNet Client",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\ViPNet Client.lnk"
+            },
+            "position": {
+                "column": 2,
+                "row": 7
+            }
+        },
+        {
+            "name": "Cursor",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Cursor.lnk"
+            },
+            "position": {
+                "column": 2,
+                "row": 9
+            }
+        },
+        {
+            "name": "Terraria",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Terraria.url"
+            },
+            "position": {
+                "column": 3,
+                "row": 4
+            }
+        },
+        {
+            "name": "The Farmer Was Replaced",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\The Farmer Was Replaced.url"
+            },
+            "position": {
+                "column": 4,
+                "row": 4
+            }
+        },
+        {
+            "name": "Sekiro Shadows Die Twice GOTY Edition",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Sekiro Shadows Die Twice GOTY Edition.lnk"
+            },
+            "position": {
+                "column": 4,
+                "row": 5
+            }
+        },
+        {
+            "name": "my_fucking_documents",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\my_fucking_documents"
+            },
+            "position": {
+                "column": 4,
+                "row": 11
+            }
+        },
+        {
+            "name": "meeting",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\meeting"
+            },
+            "position": {
+                "column": 6,
+                "row": 10
+            }
+        },
+        {
+            "name": "FileZilla Client",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\FileZilla Client.lnk"
+            },
+            "position": {
+                "column": 7,
+                "row": 0
+            }
+        },
+        {
+            "name": "Burp Suite Community Edition",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Burp Suite Community Edition.lnk"
+            },
+            "position": {
+                "column": 7,
+                "row": 3
+            }
+        },
+        {
+            "name": "Postman",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Postman.lnk"
+            },
+            "position": {
+                "column": 8,
+                "row": 3
+            }
+        },
+        {
+            "name": "Visual Studio Code",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Visual Studio Code.lnk"
+            },
+            "position": {
+                "column": 11,
+                "row": 0
+            }
+        },
+        {
+            "name": "Visual Studio 2022",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Visual Studio 2022.lnk"
+            },
+            "position": {
+                "column": 12,
+                "row": 1
+            }
+        },
+        {
+            "name": "PyCharm Community Edition 2023.3.3",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\PyCharm Community Edition 2023.3.3.lnk"
+            },
+            "position": {
+                "column": 13,
+                "row": 1
+            }
+        },
+        {
+            "name": "pgAdmin 4",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\pgAdmin 4.lnk"
+            },
+            "position": {
+                "column": 15,
+                "row": 1
+            }
+        },
+        {
+            "name": "Docker Desktop",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Docker Desktop.lnk"
+            },
+            "position": {
+                "column": 16,
+                "row": 1
+            }
+        },
+        {
+            "name": "Oracle VM VirtualBox",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Public\\Desktop\\Oracle VM VirtualBox.lnk"
+            },
+            "position": {
+                "column": 18,
+                "row": 0
+            }
+        },
+        {
+            "name": "Вопросы_hsirs_ИППИ.txt",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Вопросы_hsirs_ИППИ.txt"
+            },
+            "position": {
+                "column": 18,
+                "row": 7
+            }
+        },
+        {
+            "name": "Works",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Works"
+            },
+            "position": {
+                "column": 24,
+                "row": 2
+            }
+        },
+        {
+            "name": "Project",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Project"
+            },
+            "position": {
+                "column": 23,
+                "row": 0
+            }
+        },
+        {
+            "name": "Univers",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\Univers"
+            },
+            "position": {
+                "column": 24,
+                "row": 1
+            }
+        },
+        {
+            "name": "notes_ept.md",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\notes_ept.md"
+            },
+            "position": {
+                "column": 24,
+                "row": 4
+            }
+        },
+        {
+            "name": "tearsTimer.xlsx",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\tearsTimer.xlsx"
+            },
+            "position": {
+                "column": 24,
+                "row": 7
+            }
+        },
+        {
+            "name": "screenshots",
+            "identity": {
+                "type": "filesystem",
+                "parsing_name": "C:\\Users\\Hocyxa\\Desktop\\screenshots"
+            },
+            "position": {
+                "column": 24,
+                "row": 10
+            }
+        },
+        {
+            "name": "Корзина",
+            "identity": {
+                "type": "shell",
+                "parsing_name": "::{645FF040-5081-101B-9F08-00AA002F954E}"
+            },
+            "position": {
+                "column": 24,
+                "row": 11
+            }
+        }
+    ]
+}
